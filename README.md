@@ -12,6 +12,11 @@ To create a ranking system with a ladder, where we can see which clan is the str
 
 * The method:
 
+Every data is collected centrally in a database. To create a new user, you have to register on the webpage. You create username and password, and to connect to the data base when u play, you have to log in from the client.
+
+The result of a little discussion is that we follow the same path as Teerace login system with API token edited in the settings CFG of the player. This means that every player has to authentificate before he is able to receive his rating in the database! (Does someone know if we can add a "login successful" displayed to the player by the server, to confirm the login?)
+
+(http://race.teesites.net/getstarted/)
 
 Every line up creates a different total rating for the clan, because we base the clan rating on the combined player rating. Depending on which players you face in a clan war, you get different points in case u win or draw the game. In reality, the difference in points between different clan line ups will usually not be very big, because only exceptionally good or bad players can affect the total clan rating by a big number. But this is still very possible, because these players absolutely exist and affect games positively or negatively.
 
