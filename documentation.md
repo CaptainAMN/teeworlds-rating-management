@@ -3,7 +3,7 @@ Following added solutions to improve the matchmaking system. Shit ideas are encl
 
 1) Sucessful vote to start a league match requires 100% majority. This is to make sure the game can start without delay, and other trouble like being afk while everyone warms up.
 
-2) Leaving the game and not rejoining within 5 minutes earns you the same ranking as if you've lost the game and performed very poorly. Is it possible that player that come and replace someone get the same points ingame as the worst player on the team? For example: If Sonix replaces Player A, the topscorer of team blue, Sonix will pick the game up with the same ingame points as Player D, who is bottom scorer. He will not pick up where the leaver C left. Repeat and rinse if this occasion happens multiple times. This is quite experimental.
+2) Leaving the game and not rejoining within 5 minutes earns you the same ranking as if you've lost the game and performed very poorly. Is it possible that player that come and replace someone get the same points ingame as the worst player on the team? For example: If Sonix replaces Player A, the topscorer of team blue, Sonix will pick the game up with the same ingame points as Player D, who is bottom scorer. He will not pick up where the leaver and topscorer A left. Repeat and rinse if this occasion happens multiple times. This is quite experimental.
 
 [3) For capgames/Clans (not for TDM): If a league game is in progress, and someone leaves, first of all the game is fully frozen/ "paused". If a substitute is not found within 5 minutes countdown again, the game will be erased from database. ]
 
